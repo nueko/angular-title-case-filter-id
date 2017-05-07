@@ -2,9 +2,9 @@
   'use strict';
 
   angular.module('ngTitleCaseFilterId')
-    .filter('titlecase', titlecaseFilter);
+    .filter('titleCaseId', titleCaseIdFilter);
 
-  function titlecaseFilter() {
+  function titleCaseIdFilter() {
     return function (input) {
       if (!input) {
         return;
