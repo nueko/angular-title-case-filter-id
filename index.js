@@ -1,7 +1,7 @@
 (function () {
   'use strict';
 
-  angular.module('app')
+  angular.module('ngTitleCaseFilterId')
     .filter('titlecase', titlecaseFilter);
 
   function titlecaseFilter() {
