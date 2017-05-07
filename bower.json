@@ -1,0 +1,18 @@
+{
+  "name": "title-case-filter-id",
+  "description": "Indonesian Angular Title Case Filter",
+  "main": "index.js",
+  "authors": [
+    "nueko <nueko@yahoo.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "titlecase",
+    "indonesia"
+  ],
+  "homepage": "https://github.com/nueko/angular-titlecase-filter-id",
+  "dependencies": {
+    "angular": ">=1.2"
+  }
+}
